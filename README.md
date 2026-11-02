@@ -1,4 +1,5 @@
 # Spatial mobility and personal networks across settlement types
+[![DOI](https://zenodo.org/badge/1443185758.svg)](https://doi.org/10.5281/zenodo.23889985)
 
 R code for the article *Spatial Mobility and Personal Networks Across Settlement Types*, accepted for publication in the *Journal of Transport Geography*.
 

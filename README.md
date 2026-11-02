@@ -71,3 +71,13 @@ The full dataset (over 20 million communication events) needs a machine with amp
 ## Development archive
 
 `development-archive/` keeps the scripts written while the analysis took shape: earlier versions of the network filters and measures, exploratory analyses for earlier formulations of the research questions, a user-profiling (clustering) design that was later dropped, figure drafts, and checks explored during review. Each file starts with a short note on what it contains. They are kept as a record and are not needed to reproduce the results.
+
+## Citation
+
+Please cite the article:
+
+[Authors] ([Year]). Spatial Mobility and Personal Networks Across Settlement Types. Journal of Transport Geography. https://doi.org/[article DOI]
+
+and the code:
+
+Zhvania, L. (2026). likazhvania/mobility-networks-settlement-types: Code accompanying the JTG article (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23889986
